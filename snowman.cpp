@@ -198,7 +198,6 @@ string ariel::snowman(int num){
         else{
             temp = snow8  +" " + snow7 + snow6 + snow5 + " " + "\n" + snow4 + snow2 + snow3 + "\n" + snow1;
         }
-       cout <<temp<< endl;
     }
     return temp;
 
